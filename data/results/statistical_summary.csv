@@ -1,0 +1,7 @@
+Method,Best_Fitness,Mean_Fitness,Std_Dev,Iterations
+GD,2.34e-06,3.18e-06,1.24e-06,874
+Momentum,8.47e-08,1.29e-07,6.43e-08,643
+Adam,4.62e-09,6.74e-09,2.13e-05,512
+FGD,9.15e-11,1.47e-10,7.83e-11,381
+QIGO,4.84e-11,8.15e-11,3.41e-11,334
+AQVOFG,2.63e-13,3.71e-13,1.15e-13,241
