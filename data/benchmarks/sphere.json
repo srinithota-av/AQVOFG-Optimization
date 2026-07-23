@@ -1,0 +1,7 @@
+{
+  "function_name": "Sphere",
+  "dimension": 30,
+  "domain": [-100.0, 100.0],
+  "global_minimum": 0.0,
+  "global_minimizer": [0.0]
+}
